@@ -10,6 +10,8 @@
 * Take care of codes desgin and apply comments
 * ***time frame 3 days start from today 24/5/2019***
 
+## please reply to us by sending APK file and a github link to your code to this email "yasserdghx@gmail.com"
+
 
 ### GET tickets Data For One Way
 Link:[/api/orders/oneway?from=BGW&to=BEY&data=2019-02-30&adt=1&type=e&chd=0&Infant=0](https://favorite-holiday.herokuapp.com/api/orders/oneway?from=BGW&to=BEY&data=2019-05-30&adt=1&type=e&chd=0&Infant=0)
