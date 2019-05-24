@@ -1,8 +1,8 @@
 # task3
 
 ## Requirements
-* one Activity
-* one RecyclerView
+* One Activity
+* One RecyclerView
 * One CardView show's trip details
 * Use MVP
 * Take care of UI&UX
