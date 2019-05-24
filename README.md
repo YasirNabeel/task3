@@ -16,7 +16,6 @@ Link:[/api/orders/oneway?from=BGW&to=BEY&data=2019-02-30&adt=1&type=e&chd=0&Infa
 <br><br>
 Method: GET  
 <br><br>
-<br><br>
 params: from =BGW ,to=BEY ,data=2019-05-30,type=e,chd=0 adt=1,Infant=0
 <br><br>
 example :
