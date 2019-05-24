@@ -5,7 +5,9 @@
 * One RecyclerView
 * One CardView show's trip details
 * Use MVP
+* Use Retrofit
 * Take care of UI&UX
+* Take care of codes desgin and apply comments
 * ***time frame 3 days start from today 24/5/2019***
 
 
